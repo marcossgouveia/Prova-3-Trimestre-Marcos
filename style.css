@@ -1,1 +1,15 @@
-.primeira
+body{
+    background-color: brown;
+    margin: 5px;
+}
+
+.primeira{
+    font-size: large;
+    display: flex;
+    justify-content: center;
+    bac
+}
+
+.p1{
+    font: size 10px;
+}
